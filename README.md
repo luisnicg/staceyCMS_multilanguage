@@ -13,7 +13,7 @@ I had to modify the core of the application by adding a new collection and then 
 2. Declare the languages in the file _languages.txt
 3. Create an asset called languages.html
 
-## Modifingy images
+## Modifying images
 
 Linux
 
