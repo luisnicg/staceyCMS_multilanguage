@@ -1,0 +1,13 @@
+
+
+#intro {
+	border: 1px solid #dcdcdc; 
+}
+
+#box_left h3, #box_right h3, #box_middle h3 {
+	border: 1px solid #dcdcdc;
+}
+
+#box_left, #box_right, #box_middle {margin-bottom: 20px;}
+
+

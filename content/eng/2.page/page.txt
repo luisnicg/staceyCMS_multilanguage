@@ -1,0 +1,14 @@
+title: Page
+-
+title_1: Title 1
+-
+title_2: Title 2
+-
+recent: Recent
+-
+archive: Archive
+-
+some_text: Some text
+-
+text_in_a_box: Text in a box
+-

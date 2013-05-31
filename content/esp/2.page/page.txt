@@ -1,0 +1,14 @@
+title: Página
+-
+title_1: Título 1
+-
+title_2: Título 2
+-
+recent: Reciente
+-
+archive: Archivados
+-
+some_text: Un poco de texto
+-
+text_in_a_box: Texto en caja
+-

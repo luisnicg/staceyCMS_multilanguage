@@ -1,0 +1,10 @@
+title: Inicio
+-
+welcome: Bienvenidos a mi sitio.
+-
+sub1: Nosotros
+-
+sub2: Servicios
+-
+sub3: Reciente
+-

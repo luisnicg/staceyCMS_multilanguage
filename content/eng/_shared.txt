@@ -1,0 +1,2 @@
+footer: Exclusively on <a href="http://www.sixrevisions.com">Six Revisions</a> | Created by <a href="http://www.csstemplateheaven.com">CssTemplateHeaven</a>
+-

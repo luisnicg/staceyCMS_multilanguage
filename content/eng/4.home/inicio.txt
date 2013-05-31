@@ -1,0 +1,10 @@
+title: Home
+-
+welcome: Welcome to my site.
+-
+sub1: About
+-
+sub2: Services
+-
+sub3: Recent
+-
