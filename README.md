@@ -16,7 +16,6 @@ I had to modify the core of the application by adding a new collection and then 
 
 ##New variables
 @current_language - is the current language.
-sample:
 ````php
 <a href="@root_path@current_language/page">Link</a>
 ````
