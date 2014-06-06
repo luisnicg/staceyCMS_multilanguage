@@ -13,6 +13,17 @@ I had to modify the core of the application by adding a new collection and then 
 2. Declare the languages in the file _languages.txt
 3. Create an asset called languages.html
 
+
+##New variables
+@current_language - is the current language.
+sample:
+<a href="@root_path@current_language/page">Link</a>
+
+@link_language - is the link for the current language
+foreach $languages do
+	<li  if @is_currlanguage do class='active' endif><a href="@root_path@lang_url@link_language">@lenguage</a></li>
+endforeach
+
 ## Modifying images
 
 Linux
