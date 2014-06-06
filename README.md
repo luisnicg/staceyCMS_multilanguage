@@ -17,12 +17,12 @@ I had to modify the core of the application by adding a new collection and then 
 ##New variables
 @current_language - is the current language.
 sample:
-<a href="@root_path@current_language/page">Link</a>
+	<a href="@root_path@current_language/page">Link</a>
 
 @link_language - is the link for the current language
-foreach $languages do
-	<li  if @is_currlanguage do class='active' endif><a href="@root_path@lang_url@link_language">@lenguage</a></li>
-endforeach
+	foreach $languages do
+		<li  if @is_currlanguage do class='active' endif><a href="@root_path@lang_url@link_language">@lenguage</a></li>
+	endforeach
 
 ## Modifying images
 
