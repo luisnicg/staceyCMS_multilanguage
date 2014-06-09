@@ -51,6 +51,10 @@ exiftool -IPTC:Caption-Abstract='This is the @description' /[path]/image.jpg
 
 The template was downloaded from: http://sixrevisions.com/freebies/web-page-templates/free-xhtml-template-pack-luxury-classic/
 
+## Sites using it
+
+http://www.servicios-industriales.com/
+
 ## Contact
 
 luis.nicg@gmail.com
