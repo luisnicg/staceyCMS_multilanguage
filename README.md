@@ -1,7 +1,7 @@
 # Multilanguage Support Stacey CMS 
 =======================
 
-This is my contribution in this project called Stacey CMS.
+This is my contribution on this project called Stacey CMS.
 
 Stacey 2.3.0
 
