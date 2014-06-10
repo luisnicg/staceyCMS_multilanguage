@@ -9,7 +9,7 @@ Stacey 2.3.0
 
 I had to modify the core of the application by adding a new collection and then add a new asset of this collection.
 
-Adds a new asset-tye, I mean a new class called Language.
+Adds a new asset-type, I created a new class called Language.
 
 New variables
 
