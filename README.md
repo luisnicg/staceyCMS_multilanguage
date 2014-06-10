@@ -9,12 +9,10 @@ Stacey 2.3.0
 
 I had to modify the core of the application by adding a new collection and then add a new asset of this collection.
 
-1. Create the directories for languages in content/
-2. Declare the languages in the file _languages.txt
-3. Create an asset called languages.html
+Adds a new asset-tye, I mean a new class called Language.
 
+New variables
 
-##New variables
 @current_language - is the current language.
 ````php
 <a href="@root_path@current_language/page">Link</a>
@@ -23,9 +21,18 @@ I had to modify the core of the application by adding a new collection and then 
 @link_language - is the link for the current language
 ````php
 	foreach $languages do
-		<li  if @is_currlanguage do class='active' endif><a href="@root_path@lang_url@link_language">@lenguage</a></li>
+		<li  if @is_currlanguage do class='active' endif><a href="@root_path@lang_url@link_language">@language</a></li>
 	endforeach
 ````
+
+## How to use
+
+1. Create the directories for each languages in content/, for example eng, spa and ita.
+2. Declare the languages in the file _languages.txt in content/[languages]
+3. Create an asset called languages.html, here you can modify the style of the language list that appear in your site
+4. Create a new template called home.html, this is your main page
+5. index.thml only redirect to the language default
+
 
 ## Modifying images
 
